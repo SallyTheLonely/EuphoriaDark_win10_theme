@@ -17,6 +17,7 @@ Changes & Updates for the presets in lua script!
 	Mint: hueShift(0.85, 1.7, 0.94, 0.8)
 	Hoar Grass: hueShift(0.8, 1.5, 1, 0.8)
 	Hoar: hueShift(1.04, 1.45, 1.7, 0.8)
+	Evening Sky: hueShift(0.8, 1.4, 1.7, 0.8)
 	Night Ocean: hueShift(0.8, 1.3, 1.3, 0.8)
 	Night: hueShift(0.9, 0.8, 1.3, 0.8)
 	Sakura: hueShift(2.7, 2, 2.3, 8)
